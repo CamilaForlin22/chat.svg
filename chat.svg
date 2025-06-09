@@ -346,7 +346,7 @@
   <!-- about 3 -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="530" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">e possuo um conhecimento multidisciplinar que pode ser  </text>
+    <text x="15" y="27">eu possuo um conhecimento multidisciplinar que pode ser  </text>
     <text x="15" y="50">útil para diversas tarefas </text> 
   </g> 
 
@@ -355,8 +355,8 @@
 
   <!-- contact... -->
   <g transform="translate(10, 336)" class="msg-6">
-    <rect width="470" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Me contate através do meu <a xlink:href="http://wa.me/5511965650582?text=Olá, vi seu perfil no Github! Poderíamos conversar?"> Whatsapp </a>
-    <text x="15" y="50">util para diversas tarefas </text>ou por e-mail</text>
+    <rect width="470" height="62" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Me contate através do meu <a xlink:href="http://wa.me/5511965650582?text=Olá, vi seu perfil no Github! Poderíamos conversar?"> Whatsapp </a></text>
+    <text x="15" y="50">ou através do e-mail: camila.tecnologia77@gmail.com</text>
   </g>
 </svg>
