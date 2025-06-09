@@ -319,8 +319,9 @@
 
   <!-- about 2 ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="500" height="40.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> Estou desenvolvendo meus conhecimentos no front-end </text>    
+    <rect width="500" height="62" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Tenho alguma experiencia com front-end e estou sempre </text>
+    <text x="15" y="50">  me aprimorando</text>    
   </g>
 
 
@@ -345,7 +346,7 @@
   <!-- about 3 -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="530" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> mas possuo um conhecimento multidisciplinar que pode ser  </text>
+    <text x="15" y="27">e possuo um conhecimento multidisciplinar que pode ser  </text>
     <text x="15" y="50">útil para diversas tarefas </text> 
   </g> 
 
